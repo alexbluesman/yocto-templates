@@ -1,1 +1,1 @@
-This repo contains various templates for Yocto packages.
+This template is for project based on autotools.
