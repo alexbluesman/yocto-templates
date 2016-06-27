@@ -1,1 +1,1 @@
-This repo contains various templates for Yocto packages.
+Custome application that uses 'make' for building.
