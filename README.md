@@ -1,1 +1,1 @@
-This repo contains various templates for Yocto packages.
+This is Qt5 demo application for Yocto.
